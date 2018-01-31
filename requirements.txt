@@ -1,0 +1,5 @@
+requests==2.9.1
+unicode-slugify
+colorlog==2.6.3
+future==0.15.2
+python-pptx==0.5.8

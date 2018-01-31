@@ -1,0 +1,88 @@
+-0.2.2-alpha.3
+* Fix for Windows with python 3 installed that did not recognize directory structure when executing udemy_dl.py
+-0.2.2-alpha.2
+* Fix for Udemy website changes (https://github.com/nishad/udemy-dl/issues/231)
+
+-0.2.2-alpha.1
+* Fix for Udemy website changes (https://github.com/nishad/udemy-dl/issues/207)
+
+-0.2.2-alpha
+* Implemented functionality to use course title as parent directory
+* Various fixes for HLS streams
+
+-0.2.1
+* Video quality selection via --video-quality
+* New asset type File contain zip, pptx, psd etc
+* Option to select downloader aria2c as default
+* Support for draft courses
+* requests 2.9.1
+* Fixes for downloads
+* Support for captions, quiz, attached item and some change
+* Coloured logs
+
+-0.2.1-beta
+* Fixes for Udemy website changes
+* Extend debug options
+* Improved `get_course_id` 
+
+-0.2.1-alpha
+* Better fix for encoding errors
+* Improved saving links to a file
+* Moved to api 2.0
+* Split and improve parse_video_url
+* Support for landscape.io
+* Improved docstrings
+* Asset type article, Presentation
+* Various tiny fixes and improvements
+
+-0.2.0
+*Add support for downloading E-book, Audio and VideoMashup
+*Add new argument -s (Do not download but save links to a file)
+*improve udemy course link support and folder name.
+*And various code improvement as suggested by quantifiedcode
+
+-0.1.9
+*Fixes for version number 0.1.9
+
+-0.1.8.3
+* Fix crashes when access_token is None
+* Fix download HD resolution instance 360
+
+-0.1.8.2
+* Fix some error and crashes
+
+-0.1.8.1
+* Hot Fix for udemy cannot download lecture in 0.1.8
+
+-0.1.8
+* Fix for udemy changes with course learn page
+
+-0.1.7
+* Add --lecture-start and --lecture-end parameters
+
+- 0.1.6
+* Fix for udemy changes
+
+- 0.1.5
+* Some bug fixes
+
+- 0.1.4
+* Fix import error
+
+- 0.1.3
+* Use Python wget module instead of urlretrieve
+* Remove dependency on bs4
+* Support for downloading youtube links
+* Pass cert path from requests to curl
+
+- 0.1.2
+* Use curl for downloading if available
+* Fix install issue on Windows
+
+- 0.1.1
+* Fix permissions on root user install
+* Fix for detecting course id properly
+* Prefer setuptools to distutils
+
+- 0.1.0
+* Initial release for upload on PyPi

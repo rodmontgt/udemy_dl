@@ -1,13 +1,22 @@
-# udemy_dl
 Python script to download a udemy.com course, for personal offline use.
 
 ### Version
-**0.2.2-alpha.3**
+**0.2.2-alpha.2**
 
 [![PyPI version](https://badge.fury.io/py/udemy-dl.svg?0.2.0)](http://badge.fury.io/py/udemy-dl) 
 [![Build Status](https://travis-ci.org/nishad/udemy-dl.svg?branch=master)](https://travis-ci.org/nishad/udemy-dl)
 [![Code Health](https://landscape.io/github/nishad/udemy-dl/master/landscape.svg?style=flat)](https://landscape.io/github/nishad/udemy-dl/master)
 [![Waffle.io](https://img.shields.io/waffle/label/nishad/udemy-dl/in%20progress.svg)](https://waffle.io/nishad/udemy-dl)
+
+### Windows Version
+A Windows version without any dependecies is available here  
+https://github.com/nishad/udemy-dl-windows
+
+You can get the lastest Windows release from here.
+
+https://github.com/nishad/udemy-dl-windows/releases/latest
+
+Download `udemy-dl-win-X.X.X.zip`
 
 
 ### Prerequisites
