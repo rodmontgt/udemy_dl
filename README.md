@@ -1,7 +1,11 @@
 Python script to download a udemy.com course, for personal offline use.
 
+### Disclaimer: 
+This software is intended to help you download Udemy courses for personal use only. Sharing the content of your subscribed courses is strictly prohibited under Udemy Terms of Use. Each and every course on Udemy is subjected to copyright infringement. 
+This software does not magically download any paid course available on Udemy, you need to provide your Udemy login credentials to download the courses you have enrolled in. udemy_dl downloads the lecture videos by simply using the source of the video player returned to the user by Udemy after proper authentication, you can also do the same manually. Many download managers use same method to download videos on a web page. This app only automates the process of a user doing this manually in a web browser. 
+
 ### Version
-**0.2.2-alpha.2**
+**0.2.2-alpha.3**
 
 [![PyPI version](https://badge.fury.io/py/udemy-dl.svg?0.2.0)](http://badge.fury.io/py/udemy-dl) 
 [![Build Status](https://travis-ci.org/nishad/udemy-dl.svg?branch=master)](https://travis-ci.org/nishad/udemy-dl)
@@ -10,13 +14,10 @@ Python script to download a udemy.com course, for personal offline use.
 
 ### Windows Version
 A Windows version without any dependecies is available here  
-https://github.com/nishad/udemy-dl-windows
+https://github.com/rodmontgt/udemy_dl/releases
 
-You can get the lastest Windows release from here.
 
-https://github.com/nishad/udemy-dl-windows/releases/latest
-
-Download `udemy-dl-win-X.X.X.zip`
+Download `udemy_dl-win32.zip`
 
 
 ### Prerequisites
