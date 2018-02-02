@@ -5,19 +5,22 @@ This software is intended to help you download Udemy courses for personal use on
 This software does not magically download any paid course available on Udemy, you need to provide your Udemy login credentials to download the courses you have enrolled in. udemy_dl downloads the lecture videos by simply using the source of the video player returned to the user by Udemy after proper authentication, you can also do the same manually. Many download managers use same method to download videos on a web page. This app only automates the process of a user doing this manually in a web browser. 
 
 ### Version
-**0.2.2-alpha.3**
+**0.2.2-alpha.4**
 
 [![PyPI version](https://badge.fury.io/py/udemy-dl.svg?0.2.0)](http://badge.fury.io/py/udemy-dl) 
 [![Build Status](https://travis-ci.org/nishad/udemy-dl.svg?branch=master)](https://travis-ci.org/nishad/udemy-dl)
 [![Code Health](https://landscape.io/github/nishad/udemy-dl/master/landscape.svg?style=flat)](https://landscape.io/github/nishad/udemy-dl/master)
 [![Waffle.io](https://img.shields.io/waffle/label/nishad/udemy-dl/in%20progress.svg)](https://waffle.io/nishad/udemy-dl)
 
-### Windows Version
-A Windows version without any dependecies is available here  
-https://github.com/rodmontgt/udemy_dl/releases
+### Downloads:
+These files are custom ports that do not need dependencies
 
+| Platform | Arch | Version | Link|
+| --- | --- | --- | --- |
+| Windows | x86_x64 | 0.2.2-alpha.4 | [Download](https://github.com/rodmontgt/udemy_dl/releases/download/0.2.2-alpha.4/udemy_dl-win32.zip)|
+| Mac | x64 | 0.2.2-alpha.4 | [Coming Soon](#)|
+| Linux | x86_x64 | 0.2.2-alpha.4 | [Coming Soon](#)|
 
-Download `udemy_dl-win32.zip`
 
 
 ### Prerequisites
