@@ -1,4 +1,4 @@
-requests==2.9.1
+requests>=2.20.0
 unicode-slugify
 colorlog==2.6.3
 future==0.15.2
